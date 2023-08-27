@@ -1,4 +1,4 @@
-# Hi there, I'm [Bishwa Jung Shah][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+# Hi there, I'm [Bishwa][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
 ## I'm a Student and Developer!
 
@@ -45,6 +45,7 @@
 <a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=beesou777&show_icons=true&theme=tokyonight"/>
 </a>
+
 <a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beesou777&layout=compact&theme=tokyonight"/>
 </a>
