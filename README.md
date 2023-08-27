@@ -13,7 +13,6 @@
 
 [<img align="left" alt="Rohan | Facebook" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/fb.png" />][facebook]
 [<img align="left" alt="Rohan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/linked.png" />][linkedin]
-[<img align="left" alt="Rohan | github" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/github.png" />][github]
 [<img align="left" alt="Rohan | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/instagram.png" />][instagram]
 [<img align="left" alt="Rohan | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/gmail.svg" />][gmail]
 <br /><br />
