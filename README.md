@@ -17,7 +17,7 @@
 [<img align="left" alt="Rohan | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/gmail.svg" />][gmail]
 <br /><br />
 
-[![Gmail Badge](https://img.shields.io/badge/-rohanshakya254@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:rohanshakya254@gmail.com)](mailto:shahbishwa21@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-rohanshakya254@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahbishwa21@gmail.com)](mailto:shahbishwa21@gmail.com)
 
 <br />
 
@@ -36,14 +36,6 @@
 
 ## <br />
 
-<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Rohan-Shakya&show_icons=true&theme=tokyonight"/>
-</a>
-<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rohan-Shakya&layout=compact&theme=tokyonight"/>
-</a>
-
-<br />
 
 <img src='https://github-profile-trophy.vercel.app/?username=Rohan-Shakya&theme=dracula&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)' />
 
