@@ -17,7 +17,7 @@
 [<img align="left" alt="Rohan | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/gmail.svg" />][gmail]
 <br /><br />
 
-[![Gmail Badge](https://img.shields.io/badge/-rohanshakya254@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahbishwa21@gmail.com)](mailto:shahbishwa21@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-shahbishwa21@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahbishwa21@gmail.com)](mailto:shahbishwa21@gmail.com)
 
 <br />
 
