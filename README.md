@@ -39,6 +39,18 @@
 - <a href="https://www.morgenland-rugs.com/" target="_blank">https://www.morgenland-rugs.com/</a>.
 - <a href="https://www.morgenland-tapis.fr/" target="_blank">https://www.morgenland-tapis.fr/</a>.
 
+## <br />
+
+
+<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beesou777&show_icons=true&theme=tokyonight"/>
+</a>
+<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beesou777&layout=compact&theme=tokyonight"/>
+</a>
+
+<br />
+
 <img src='https://github-profile-trophy.vercel.app/?username=beesou777&theme=dracula&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)' />
 
 <img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg' />
