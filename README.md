@@ -36,6 +36,10 @@
 
 ## <br />
 
+### Project that i am currently working:
+- <a href="https://www.morgenland-teppiche.de/" target="_blank">https://www.morgenland-teppiche.de/</a>.
+- <a href="https://www.morgenland-rugs.com/" target="_blank">https://www.morgenland-rugs.com/</a>.
+- <a href="https://www.morgenland-tapis.fr/" target="_blank">https://www.morgenland-tapis.fr/</a>.
 
 <img src='https://github-profile-trophy.vercel.app/?username=Rohan-Shakya&theme=dracula&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)' />
 
