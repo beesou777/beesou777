@@ -15,12 +15,10 @@
 [<img align="left" alt="Rohan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/linked.png" />][linkedin]
 [<img align="left" alt="Rohan | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/instagram.png" />][instagram]
 [<img align="left" alt="Rohan | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/gmail.svg" />][gmail]
-<br /><br />
-
-[![Gmail Badge](https://img.shields.io/badge/-shahbishwa21@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahbishwa21@gmail.com)](mailto:shahbishwa21@gmail.com)
-
 <br />
 
+[![Gmail Badge](https://img.shields.io/badge/-shahbishwa21@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahbishwa21@gmail.com)](mailto:shahbishwa21@gmail.com)
+<br />
 ### Languages and tools that I used:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/visual-studio-code.png" />
