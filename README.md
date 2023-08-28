@@ -41,9 +41,6 @@
 
 ## <br />
 
-<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
-  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beesou777&theme=dracula"/>
-</a>
 
 <a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beesou777&theme=tokyonight"/>
@@ -53,6 +50,9 @@
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beesou777&theme=tokyonight"/>
 </a>
 
+<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beesou777&theme=dracula"/>
+</a>
 <br />
 
 <img src='https://github-profile-trophy.vercel.app/?username=beesou777&theme=dracula&column=7&margin-w=15&margin-h=15%20(https://github.com/ryo-ma/github-profile-trophy)' />
