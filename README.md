@@ -47,7 +47,7 @@
 </a>
 
 <a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beesou777&layout=compact&theme=tokyonight"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beesou777&theme=tokyonight"/>
 </a>
 
 <br />
