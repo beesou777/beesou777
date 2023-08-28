@@ -41,9 +41,12 @@
 
 ## <br />
 
+<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beesou777&theme=dracula"/>
+</a>
 
 <a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beesou777&show_icons=true&theme=radical"/>
+  <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beesou777&theme=tokyonight"/>
 </a>
 
 <a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
