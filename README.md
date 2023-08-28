@@ -43,7 +43,7 @@
 
 
 <a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beesou777&show_icons=true&theme=tokyonight"/>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=beesou777&show_icons=true&theme=radical"/>
 </a>
 
 <a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
