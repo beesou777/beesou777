@@ -31,6 +31,7 @@
 <img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/nodejs.png" />
 <img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/django.png" />
 <img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/git.png" />
+<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/vue.png" />
 
 ## <br />
 
