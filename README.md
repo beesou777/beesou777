@@ -11,10 +11,10 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Rohan | Facebook" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/fb.png" />][facebook]
-[<img align="left" alt="Rohan | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/linked.png" />][linkedin]
-[<img align="left" alt="Rohan | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/instagram.png" />][instagram]
-[<img align="left" alt="Rohan | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/gmail.svg" />][gmail]
+[<img align="left" alt="BIshwa | Facebook" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/fb.png" />][facebook]
+[<img align="left" alt="Bishwa | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/linked.png" />][linkedin]
+[<img align="left" alt="Bishwa  | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/instagram.png" />][instagram]
+[<img align="left" alt="Bishwa | Instagram" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/gmail.svg" />][gmail]
 <br />
 
 [![Gmail Badge](https://img.shields.io/badge/-shahbishwa21@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahbishwa21@gmail.com)](mailto:shahbishwa21@gmail.com)
