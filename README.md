@@ -3,7 +3,7 @@
 ## I'm a Student and Developer!
 
 - 🤓 Self Taught Developer.
-- :desktop_computer: I am working as a Jr frontend developer at
+- :desktop_computer: I am working as a Jr frontend developer at 
   <a href="https://www.hyteno.com/" target="_blank">Hyteno</a>.
 - 🌱 I’m currently learning Node js, vue js and sql.
 - 🔭 I’m studying Bachelor's in Yeti International College.
