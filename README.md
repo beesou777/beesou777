@@ -20,18 +20,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-shahbishwa21@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahbishwa21@gmail.com)](mailto:shahbishwa21@gmail.com)
 <br />
 ### Languages and tools that I used:
-
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/visual-studio-code.png" />
-<img align="left" alt="html5" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/html.png" />
-<img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/css.png" />
-<img align="left" alt="sass" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/sass.png" />
-<img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/javascript.png" />
-<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/python.png" />
-<img align="left" alt="react" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/react.png" />
-<img align="left" alt="Node.js" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/nodejs.png" />
-<img align="left" alt="Django" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/django.png" />
-<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/git.png" />
-<svg class="logo" viewBox="0 0 128 128" width="24" height="24" data-v-b6bac375=""><path fill="#42b883" d="M78.8,10L64,35.4L49.2,10H0l64,110l64-110C128,10,78.8,10,78.8,10z" data-v-b6bac375=""></path><path fill="#35495e" d="M78.8,10L64,35.4L49.2,10H25.6L64,76l38.4-66H78.8z" data-v-b6bac375=""></path></svg>
+<a href="https://app.daily.dev/bishowshah"><img src="https://api.daily.dev/devcards/6b462cfda7924ee58ef7580d34f50922.png?r=abq" width="400" alt="bishow shah's Dev Card"/></a>
 
 ## <br />
 
