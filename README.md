@@ -20,7 +20,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-shahbishwa21@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahbishwa21@gmail.com)](mailto:shahbishwa21@gmail.com)
 
 ## <br />
-
+### Just a card
+<a href="https://app.daily.dev/bishowshah"><img src="https://api.daily.dev/devcards/6b462cfda7924ee58ef7580d34f50922.png?r=kdm" width="400" alt="bishow shah's Dev Card"/></a>
 ### Project that i am currently working:
 - <a href="https://www.morgenland-teppiche.de/" target="_blank">https://www.morgenland-teppiche.de/</a>.
 - <a href="https://www.morgenland-rugs.com/" target="_blank">https://www.morgenland-rugs.com/</a>.
