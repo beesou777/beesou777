@@ -45,7 +45,7 @@
 
 <img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg' />
 
-### My FUn part
+### My Fun part
 <a href="https://app.daily.dev/bishowshah"><img src="https://api.daily.dev/devcards/6b462cfda7924ee58ef7580d34f50922.png?r=yqt" width="400" alt="bishow shah's Dev Card"/></a>
 
 
