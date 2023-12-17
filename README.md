@@ -1,6 +1,6 @@
 # Hi there, I'm [Bishwa][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
-## I'm a Student and Developer!
+## I'm a Student and Developer! 
 
 - 🤓 Self Taught Developer.
 - :desktop_computer: I am working as a Jr frontend developer at 
