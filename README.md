@@ -9,7 +9,7 @@
 - 🔭 I’m studying Bachelor's in Yeti International College.
 - 🥅 2023 Goals: Focus on programming techniques, problem solving, and analytical skills.
 
-### Connect with me:
+### Connect with me:-
 
 [<img align="left" alt="BIshwa | Facebook" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/fb.png" />][facebook]
 [<img align="left" alt="Bishwa | LinkedIn" width="22px" src="https://raw.githubusercontent.com/Rohan-Shakya/Rohan-Shakya/master/images/linked.png" />][linkedin]
