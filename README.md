@@ -28,15 +28,15 @@
 
 ## <br />
 
-<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
+<a href="https://beesou777.github.io/new-portfolio/" target="_blank">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=beesou777&theme=tokyonight"/>
 </a>
 
-<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
+<a href="https://beesou777.github.io/new-portfolio/" target="_blank">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=beesou777&theme=tokyonight"/>
 </a>
 
-<a href="https://beesou777.github.io/PORTFOLOI/" target="_blank">
+<a href="https://beesou777.github.io/new-portfolio/" target="_blank">
   <img align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=beesou777&theme=dracula"/>
 </a>
 <br />
@@ -45,7 +45,7 @@
 
 <img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg' />
 
-[website]: https://beesou777.github.io/PORTFOLOI/
+[website]: https://beesou777.github.io/new-portfolio/
 [github]: https://github.com/beesou777
 [facebook]: https://www.facebook.com/profile.php?id=100089079516208
 [instagram]: https://www.instagram.com/shah.bishwa77/
