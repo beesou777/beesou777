@@ -9,7 +9,7 @@
   <a href="https://www.hyteno.com/" target="_blank">Hyteno</a>.
 - 🌱 I’m currently learning Node js, vue js and sql.
 - 🔭 I’m studying Bachelor's in Yeti International College.
-- 🥅 2023 Goals: Focus on programming techniques, problem solving, and analytical skills.
+- 🥅 2024 Goals: Focus on programming techniques, problem solving, and analytical skills.
 
 ### Connect with me:-
 
