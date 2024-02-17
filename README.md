@@ -45,7 +45,7 @@
 
 <img src='https://raw.githubusercontent.com/AkashSingh3031/AkashSingh3031/49be5f876cb7b7649b517bff7e79990ddf033141/marquee.svg' />
 
-[website]: https://beesou777.github.io/new-portfolio/
+[website]: https://bishwa-shah.netlify.app/
 [github]: https://github.com/beesou777
 [facebook]: https://www.facebook.com/profile.php?id=100089079516208
 [instagram]: https://www.instagram.com/shah.bishwa77/
