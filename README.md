@@ -6,7 +6,7 @@
 
 - 🤓 Self Taught Developer. 
 - :desktop_computer: I am working as a Jr frontend developer at 
-  <a href="https://www.hyteno.com/" target="_blank">Hyteno</a>.
+  <a href="https://www.losheaven.com/" target="_blank">losheaven</a>.
 - 🌱 I’m currently learning Node js, vue js and sql.
 - 🔭 I’m studying Bachelor's in Yeti International College.
 - 🥅 2024 Goals: Focus on programming techniques, problem solving, and analytical skills.
@@ -22,9 +22,8 @@
 [![Gmail Badge](https://img.shields.io/badge/-shahbishwa21@gmail.com-139AF2?style=flat-square&logo=Gmail&logoColor=white&link=mailto:shahbishwa21@gmail.com)](mailto:shahbishwa21@gmail.com)
 
 ### Project that i am currently working:
-- <a href="https://www.morgenland-teppiche.de/" target="_blank">https://www.morgenland-teppiche.de/</a>.
-- <a href="https://www.morgenland-rugs.com/" target="_blank">https://www.morgenland-rugs.com/</a>.
-- <a href="https://www.morgenland-tapis.fr/" target="_blank">https://www.morgenland-tapis.fr/</a>.
+- <a href="https://www.losheaven.com/" target="_blank">https://www.losheaven.com/</a>
+- <a href="https://www.bellassphere.com/" target="_blank">https://www.bellassphere.com/</a>
 
 ## <br />
 
