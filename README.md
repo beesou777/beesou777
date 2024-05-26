@@ -25,7 +25,7 @@
 - <a href="https://www.losheaven.com/" target="_blank">https://www.losheaven.com/</a>
 - <a href="https://www.bellassphere.com/" target="_blank">https://www.bellassphere.com/</a>
 
-### Project that i have work so far:
+### Project that i have worked so far:
 - <a href="https://www.morgenland-teppiche.de/" target="_blank">https://www.morgenland-teppiche.de/</a>
 - <a href="https://mediaholic.com.np/" target="_blank">https://mediaholic.com.np/</a>
 
