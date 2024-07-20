@@ -1,6 +1,6 @@
 #Just to meake you feel unique...
 
-# Hi there, I'm [Bishwa][website] <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
+# Hi there, I'm Bishwa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
 ## I'm a Student and Developer! 
 
