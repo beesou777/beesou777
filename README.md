@@ -29,6 +29,8 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=beesou777&limit=5&theme=neon&combine_all_yearly_contributions=true)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=beesou777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 ---
 [![](https://visitcount.itsvg.in/api?id=beesou777&icon=4&color=0)](https://visitcount.itsvg.in)
 
