@@ -34,4 +34,6 @@
 ---
 [![](https://visitcount.itsvg.in/api?id=beesou777&icon=4&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##some entertainment
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+![github contribution grid snake animation](https://raw.githubusercontent.com/shahradelahi/shahradelahi/output/github-contribution-grid-snake.svg#gh-light-mode-only)
