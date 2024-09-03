@@ -1,5 +1,6 @@
-#Just to meake you feel unique....
-[![Matrix SVG](https://raw.githubusercontent.com/rodrigograca31/rodrigograca31/master/matrix.svg)](https://www.youtube.com/watch?v=SDkAGkd4NLc) 
+<div align="center">
+    <img align="center" src="dino.gif">
+</div>
 
 # Hi there, I'm Bishwa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
