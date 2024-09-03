@@ -3,15 +3,67 @@
 
 # Hi there, I'm Bishwa <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35px">
 
-## I'm a Student and Developer! 
 
-# 💫 About Me:
-- 🤓 Self Taught Developer. 
-- :desktop_computer: I am doing side hustle as a fullstack developer at 
-  <a href="https://www.losheaven.com/" target="_blank">losheaven</a>.
-- 🌱 I’m currently learning Node js, vue js and sql.
-- 🔭 I’m studying Bachelor's in Yeti International College.
-- 🥅 2024 Goals: Focus on programming techniques, problem solving, and analytical skills.
+```javascript
+const bio = {
+  AboutMe: {
+    SelfDescription: "Self Taught Developer",
+    SideHustle: "Fullstack developer at Losheaven",
+    LifeStatus:["Student","Developer"],
+    RelationStatus:"There's too much to list here.",
+    CurrentLearning: ["Node.js", "Vue.js", "SQL"],
+    Education: "Bachelor's at Yeti International College",
+    GoalsFor2024: [
+      "Focus on programming techniques",
+      "Problem solving",
+      "Analytical skills"
+    ]
+  },
+  Will: {
+    CurrentFocus: "Being the best version of me",
+    HowDoISeeMyselfIn5Years: "Living my own dreams as a reality",
+    Favorites: {
+      OperationalSystem: "Parrot OS",
+      IDE: "VS Code",
+      Language: ["Python", "Javascript"],
+      MobileOS: "Android",
+      Games: ["COC", "PUBG"],
+      Music: {
+        Genres: ["Lo-fi", "Jazz"],
+        Songs: [
+          "MF DOOM - Datura Stramonium",
+          "MF DOOM - One Beer",
+          "Quasimodo - Bad Character",
+        ],
+        Artists: [
+          "Arijit Singh",
+          "Atif Aslam",
+          "Shreya Ghoshal",
+          "Taylor Swift",
+          "Alan Walker"
+        ],
+      },
+    },
+  },
+  RandomStuff: {
+    FunFactOfTheDay:
+      "More people are killed annually by donkeys than airplane crashes.",
+    CoolAdviceOfTheDay: "Do not compare yourself with others.",
+    DadJokeOfTheDay:
+      "I am terrified of elevators. I’m going to start taking steps to avoid them.",
+  },
+  MyTools: {
+    FrameWork: ["Nuxt", "Vue", "Svelte", "React"],
+    OtherLanguages: ["HTML", "CSS", "Bash", "Json", "Markdown"],
+    Database: ["Mongodb", "Postgres"],
+    Editors: ["Vscode", "Sublime"],
+    Platforms: ["GNU/Linux", "Windows"],
+    OtherTools: ["Git", "Figma", "Nginx", "Scss", "Typescript"],
+  }
+};
+console.log(bio);
+```
+
 
 
 ## 🌐 Socials:
@@ -31,47 +83,6 @@
 ![](https://github-profile-trophy.vercel.app/?username=beesou777&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 --
 [![](https://visitcount.itsvg.in/api?id=beesou777&icon=4&color=0)](https://visitcount.itsvg.in)
-
-```javascript
-const bio = {
-  Will: {
-    CurrentFocus: "Being the best version of me",
-    HowDoISeeMyselfIn5Years: "Living my own dreams as a reality",
-    Favorites: {
-      OperationalSystem: "Parrot OS",
-      IDE: "VS Code",
-      Language: ["Python","Javascript"],
-      MobileOS: "Android",
-      Games: ["COC", "PUBG"],
-      Music: {
-        Genres: [""Lo-fi", "Jazz"],
-        Songs: [
-          "MF DOOM - Datura Stramonium",
-          "MF DOOM - One Beer",
-          "Quasimodo - Bad Character",
-        ],
-        Artists: ["Arijit Singh", "Atif Aslam", "Shreya Ghoshal","Taylor Swift","Alan Walker"],
-      },
-    },
-  },
-  RandomStuff: {
-    FunFactOfTheDay:
-      "More people are killed annually by donkeys than airplane crashes.",
-    CoolAdviceOfTheDay: "Do not compare yourself with others.",
-    DadJokeOfTheDay:
-      "I am terrified of elevators. I’m going to start taking steps to avoid them.",
-  },
-  MyTools:{
-    "FrameWork" : { "Nuxt", "Vue", "Svelte", "React" },
-    "OtherLanguages" : { "HTML", "CSS", "Bash", "Json", "Markdown" },
-    "Database" : { "Mongodb", "postgress" },
-    "Editors" : { "Vscode", "Sublime" },
-    "Platforms" : { "GNU/Linux", "Windows" },
-    "OtherTools" : { "Git", "Figma", "Nginx", "Scss", "Typescript" }
-  }
-};
-console.log(bio);
-```
 
 
 ## Some Entertainment
