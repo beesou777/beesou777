@@ -12,6 +12,27 @@ class Bio {
       status: "Living my best life, learning Node.js, Vue.js, SQL",
       goalsFor2024: ["Enhance programming techniques", "Problem-solving", "Analytical skills"]
     };
+
+     this.workExperience = [
+      {
+        role: "Intern",
+        company: "Mediaholic",
+        duration: "5 months",
+        responsibilities: "Worked on Vue.js projects and contributed to front-end development."
+      },
+      {
+        role: "Junior Developer",
+        company: "Hyteno/Morgenland",
+        duration: "8 months",
+        responsibilities: "Developed web applications, improved coding skills, and worked with Vue.js."
+      },
+      {
+        role: "Fullstack Developer",
+        company: "Detech",
+        duration: "Current",
+        responsibilities: "Currently working as a Fullstack Developer, focusing on modern web technologies."
+      }
+    ];
     
     this.favorites = {
       os: "Parrot OS",
@@ -56,13 +77,6 @@ const bio = new Bio();
 bio.display();
 ```
 
-<details>
-  <summary>
-    <h2>📊 GitHub Stats:</h2>
-  </summary>
-  Other
-
-<details>
     
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
@@ -86,7 +100,7 @@ bio.display();
     <a href="https://medium.com/@shahbishwa21/understanding-lexical-scope-and-closures-in-javascript-ae16b050f47c">👉🏽 Read more</a>
   </td>
   <td>
-    <img src="https://postimg.cc/D8qj1QY8" alt="Banner" width="400px">
+    <img src="./images/lexical.webp" alt="Banner" width="400px">
   </td>
 </tr>
 
@@ -97,7 +111,7 @@ bio.display();
     <a href="https://medium.com/@shahbishwa21/automate-daily-commits-with-random-content-using-github-actions-804736759c1d">👉🏽 Read more</a>
   </td>
   <td>
-    <img src="![image](https://github.com/user-attachments/assets/9a27a8e8-74b5-430e-8298-3b6d6dabd9ec)" alt="Banner" width="400px">
+    <img src="./images/commit.webp" alt="Banner" width="400px">
   </td>
 </tr>
 
@@ -108,8 +122,51 @@ bio.display();
     <a href="https://medium.com/@shahbishwa21/introduction-to-the-safe-assignment-operator-in-javascript-ddc35e87d37c">👉🏽 Read more</a>
   </td>
   <td>
-    <img src="![image](https://github.com/user-attachments/assets/584bc6ea-977a-4def-a8c4-5e65e42c1ce8)" alt="Banner" width="400px">
+    <img src="./images/assignment.webp" alt="Banner" width="400px">
   </td>
 </tr>
 </table>
+
+
+<details>
+  <summary align="center">
+    <h2>Show More</h2>
+  </summary>
+  <table>
+  <tr>
+  <td>
+    <h3> Tailwind CSS vs. SCSS: Which is Right for Your Project? </h3>
+    <p>Tailwind CSS is a utility-first CSS framework that promotes a different approach to styling compared to traditional CSS methodologies. Instead of defining styles in a separate CSS file or in your style sheets...</p>
+    <a href="https://medium.com/@shahbishwa21/tailwind-css-vs-scss-which-is-right-for-your-project-6df79da6c68a">👉🏽 Read more</a>
+  </td>
+  <td>
+    <img src="./images/scssvstailwind.webp" alt="Banner" width="400px">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <h3> Destructuring Arrays in JavaScript: A Deep Dive </h3>
+    <p>Did you know how destructure works in arrays behind in JavaScript? This feature is quite powerful and can simplify how you access and work with array elements. Let’s dive into how it works.</p>
+    <a href="https://medium.com/@shahbishwa21/destructuring-arrays-in-javascript-a-deep-dive-8aaa555fb71b">👉🏽 Read more</a>
+  </td>
+  <td>
+    <img src="./images/array.webp" alt="Banner" width="400px">
+  </td>
+</tr>
+
+<tr>
+  <td>
+    <h3> Mastering SCSS: The Correct Way to Use SCSS in Your Projects </h3>
+    <p>SCSS (Sassy CSS) is a powerful extension of CSS that adds features like variables, nesting, and mixins, making your stylesheets more maintainable and modular. In this blog post ..</p>
+    <a href="https://medium.com/@shahbishwa21/introduction-to-the-safe-assignment-operator-in-javascript-ddc35e87d37c">👉🏽 Read more</a>
+  </td>
+  <td>
+    <img src="./images/scss.webp" alt="Banner" width="400px">
+  </td>
+</tr>
+</table>
+
+</details>
+
 
