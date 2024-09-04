@@ -159,7 +159,7 @@ bio.display();
   <td>
     <h3> Mastering SCSS: The Correct Way to Use SCSS in Your Projects </h3>
     <p>SCSS (Sassy CSS) is a powerful extension of CSS that adds features like variables, nesting, and mixins, making your stylesheets more maintainable and modular. In this blog post ..</p>
-    <a href="https://medium.com/@shahbishwa21/introduction-to-the-safe-assignment-operator-in-javascript-ddc35e87d37c">👉🏽 Read more</a>
+    <a href="https://medium.com/@shahbishwa21/mastering-scss-the-correct-way-to-use-scss-in-your-projects-3a5cbc53e45b">👉🏽 Read more</a>
   </td>
   <td>
     <img src="./images/scss.webp" alt="Banner" width="400px">
