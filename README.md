@@ -4,64 +4,49 @@
 <br><br>
 
 ```javascript
-const bio = {
-  AboutMe: {
-    Name:"Bishwa Jung Shah",
-    SelfDescription: "Self Taught Developer",
-    SideHustle: "Fullstack developer at Losheaven",
-    LifeStatus:["Student","Developer"],
-    RelationStatus:"There's too much to list here.",
-    CurrentLearning: ["Node.js", "Vue.js", "SQL"],
-    Education: "Bachelor's at Yeti International College",
-    GoalsFor2024: [
-      "Focus on programming techniques",
-      "Problem solving",
-      "Analytical skills"
-    ]
-  },
-  Will: {
-    CurrentFocus: "Being the best version of me",
-    HowDoISeeMyselfIn5Years: "Living my own dreams as a reality",
-    Favorites: {
-      OperationalSystem: "Parrot OS",
-      IDE: "VS Code",
-      Language: ["Python", "Javascript"],
-      MobileOS: "Android",
-      Games: ["COC", "PUBG"],
-      Music: {
-        Genres: ["Lo-fi", "Jazz"],
-        Songs: [
-          "MF DOOM - Datura Stramonium",
-          "MF DOOM - One Beer",
-          "Quasimodo - Bad Character",
-        ],
-        Artists: [
-          "Arijit Singh",
-          "Atif Aslam",
-          "Shreya Ghoshal",
-          "Taylor Swift",
-          "Alan Walker"
-        ],
-      },
-    },
-  },
-  RandomStuff: {
-    FunFactOfTheDay:
-      "More people are killed annually by donkeys than airplane crashes.",
-    CoolAdviceOfTheDay: "Do not compare yourself with others.",
-    DadJokeOfTheDay:
-      "I am terrified of elevators. I’m going to start taking steps to avoid them.",
-  },
-  MyTools: {
-    FrameWork: ["Nuxt", "Vue", "Svelte", "React"],
-    OtherLanguages: ["HTML", "CSS", "Bash", "Json", "Markdown"],
-    Database: ["Mongodb", "Postgres"],
-    Editors: ["Vscode", "Sublime"],
-    Platforms: ["GNU/Linux", "Windows"],
-    OtherTools: ["Git", "Figma", "Nginx", "Scss", "Typescript"],
+class Bio {
+  constructor() {
+    this.aboutMe = {
+      name: "Bishwa Jung Shah",
+      description: "Self-taught Fullstack Developer, Student at Yeti International College",
+      status: "Living my best life, learning Node.js, Vue.js, SQL",
+      goalsFor2024: ["Enhance programming techniques", "Problem-solving", "Analytical skills"]
+    };
+    
+    this.favorites = {
+      os: "Parrot OS",
+      ide: "VS Code",
+      languages: ["Python", "JavaScript"],
+      mobileOS: "Android",
+      games: ["COC", "PUBG"],
+      music: {
+        genres: ["Lo-fi", "Jazz"],
+        songs: ["MF DOOM - One Beer", "Quasimodo - Bad Character"],
+        artists: ["Arijit Singh", "Taylor Swift", "Alan Walker"]
+      }
+    };
+    
+    this.tools = {
+      frameworks: ["Nuxt", "Vue", "React", "Svelte"],
+      languages: ["HTML", "CSS", "Bash", "Markdown"],
+      databases: ["MongoDB", "Postgres"],
+      platforms: ["GNU/Linux", "Windows"],
+      otherTools: ["Git", "Figma", "Nginx", "SCSS", "TypeScript"]
+    };
+    
+    this.randomStuff = {
+      funFact: "More people are killed annually by donkeys than airplane crashes.",
+      advice: "Do not compare yourself with others."
+    };
   }
-};
-console.log(bio);
+
+  display() {
+    console.log(this);
+  }
+}
+
+const bio = new Bio();
+bio.display();
 ```
 
 
