@@ -38,6 +38,13 @@ class Bio {
       funFact: "More people are killed annually by donkeys than airplane crashes.",
       advice: "Do not compare yourself with others."
     };
+    this.socialLinks = {
+          instagram: "https://instagram.com/shah.bishwa77",
+          linkedin: "https://linkedin.com/in/bishwa777",
+          facebook: "https://facebook.com/profile.php?id=100089079516208",
+          medium: "https://medium.com/@shahbishwa21",
+          portfolio: "https://bishwa-shah.netlify.app/"
+        };
   }
 
   display() {
@@ -49,25 +56,16 @@ const bio = new Bio();
 bio.display();
 ```
 
+<details>
+  <summary>
+    <h2>📊 GitHub Stats:</h2>
+  </summary>
+  Other
 
-
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/profile.php?id=100089079516208) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/shah.bishwa77/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/bishwa777/) 
-
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=beesou777&theme=blue_navy&hide_border=true)<br/>
-
+<details>
+    
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-
---
-[![](https://visitcount.itsvg.in/api?id=beesou777&icon=4&color=0)](https://visitcount.itsvg.in)
-
-
-## Some Entertainment
-![github contribution grid snake animation](https://raw.githubusercontent.com/beesou777/beesou777/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-![github contribution grid snake animation](https://raw.githubusercontent.com/beesou777/beesou777/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
 **Code Cycle**<br>
 
