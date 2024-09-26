@@ -1,7 +1,3 @@
-<div align="center">
-    <img align="center" src="dino.gif">
-</div>
-<br><br>
 
 ```javascript
 class Bio {
