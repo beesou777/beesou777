@@ -5,7 +5,7 @@ class Bio {
     this.aboutMe = {
       name: "Bishwa Jung Shah",
       description: "Self-taught Fullstack Developer, Student at Yeti International College",
-      status: "Living my best life, learning Node.js, Vue.js, SQL",
+      status: "Living my best life, learning Node.js, Vue.js , Nuxt , Optimization",
       goalsFor2024: ["Enhance programming techniques", "Problem-solving", "Analytical skills"]
     };
 
@@ -29,19 +29,6 @@ class Bio {
         responsibilities: "Currently working as a Fullstack Developer, focusing on modern web technologies."
       }
     ];
-    
-    this.favorites = {
-      os: "Parrot OS",
-      ide: "VS Code",
-      languages: ["Python", "JavaScript"],
-      mobileOS: "Android",
-      games: ["COC", "PUBG"],
-      music: {
-        genres: ["Lo-fi", "Jazz"],
-        songs: ["MF DOOM - One Beer", "Quasimodo - Bad Character"],
-        artists: ["Arijit Singh", "Taylor Swift", "Alan Walker"]
-      }
-    };
     
     this.tools = {
       frameworks: ["Nuxt", "Vue", "React", "Svelte"],
