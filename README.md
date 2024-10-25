@@ -6,7 +6,7 @@ class Bio {
       name: "Bishwa Jung Shah",
       description: "Self-taught Fullstack Developer, Student at Yeti International College",
       status: "Living my best life, learning Node.js, Vue.js , Nuxt , Optimization",
-      goalsFor2024: ["Enhance programming techniques", "Problem-solving", "Analytical skills"]
+      goalsFor2024: ["Nest", "HackerRank problem solver ", "Analytical skills"]
     };
 
      this.workExperience = [
