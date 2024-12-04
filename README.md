@@ -64,8 +64,7 @@ bio.display();
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beesou777&theme=default&bg_color=00000000&hide_border=false&text_bold=true&theme=tokyonight)<br/><br/>
 
 [![Check out beesou777's profile on stardev.io](https://stardev.io/developers/beesou777/badge/languages/locality.svg)](https://stardev.io/developers/beesou777)
-[![Check out beesou777's profile on stardev.io](https://stardev.io/developers/beesou777/badge/languages/country.svg)](https://stardev.io/developers/beesou777)
-[![Check out beesou777's profile on stardev.io](https://stardev.io/developers/beesou777/badge/languages/global.svg)](https://stardev.io/developers/beesou777)
+
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
