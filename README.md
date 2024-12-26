@@ -1,4 +1,3 @@
-[![committers.top badge](https://user-badge.committers.top/nepal/beesou777.svg)](https://user-badge.committers.top/nepal/beesou777)
 <a href="https://app.daily.dev/beesou777"><img src="https://api.daily.dev/devcards/v2/l8ZBl2fPJHAiouPYsur5S.png?type=wide&r=ttb" width="992" alt="bishwa shah's Dev Card"/></a>
 ```javascript
 class Bio {
@@ -65,6 +64,7 @@ bio.display();
 ![](https://github-readme-streak-stats.herokuapp.com/?user=beesou777&theme=default&bg_color=00000000&hide_border=false&text_bold=true&theme=tokyonight)<br/><br/>
 
 [![Check out beesou777's profile on stardev.io](https://stardev.io/developers/beesou777/badge/languages/locality.svg)](https://stardev.io/developers/beesou777)
+[![committers.top badge](https://user-badge.committers.top/nepal/beesou777.svg)](https://user-badge.committers.top/nepal/beesou777)
 
 
 ### ✍️ Random Dev Quote
