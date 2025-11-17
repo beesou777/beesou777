@@ -1,0 +1,5 @@
+- name: Use GitHub Token
+  env:
+    GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+  run: |
+    echo "GitHub token has been set safely."
