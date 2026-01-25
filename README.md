@@ -1,4 +1,3 @@
-<a href="https://app.daily.dev/beesou777"><img src="https://api.daily.dev/devcards/v2/l8ZBl2fPJHAiouPYsur5S.png?type=wide&r=ttb" width="992" alt="bishwa shah's Dev Card"/></a>
 ```javascript
 class Bio {
   constructor() {
@@ -164,5 +163,6 @@ bio.display();
 <br>
 <br>
 [![](https://visitcount.itsvg.in/api?id=beesou777&label=Profile%20Views&color=0&icon=5&pretty=false)](https://visitcount.itsvg.in)
+
 
 
